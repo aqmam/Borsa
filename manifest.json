@@ -1,0 +1,15 @@
+{
+  "name": "بورصة العيد",
+  "short_name": "بورصة العيد",
+  "start_url": "./Borsat_AlEid_Final.html",
+  "display": "fullscreen",
+  "background_color": "#0b091a",
+  "theme_color": "#fbbf24",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
