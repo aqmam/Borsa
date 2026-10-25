@@ -1,6 +1,6 @@
-const CACHE_NAME = 'borsat-eid-v1';
+const CACHE_NAME = 'borsat-eid-v2';
 const urlsToCache = [
-  './Borsat_AlEid_Final.html',
+  './index.html',
   './manifest.json'
 ];
 
