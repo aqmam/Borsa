@@ -1,7 +1,7 @@
 {
   "name": "بورصة العيد",
   "short_name": "بورصة العيد",
-  "start_url": "./Borsat_AlEid_Final.html",
+  "start_url": "./index.html",
   "display": "fullscreen",
   "background_color": "#0b091a",
   "theme_color": "#fbbf24",
